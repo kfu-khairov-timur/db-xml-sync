@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<positions>
+    <position>
+        <depCode>A001</depCode>
+        <depJob>Инженер</depJob>
+        <description>Занимается разработкой</description>
+    </position>
+    <position>
+        <depCode>A002</depCode>
+        <depJob>Тестировщик</depJob>
+        <description>Проверка качества</description>
+    </position>
+    <position>
+        <depCode>A003</depCode>
+        <depJob>Менеджер</depJob>
+        <description>Руководит проектами</description>
+    </position>
+    <position>
+        <depCode>A004</depCode>
+        <depJob>DevOps</depJob>
+        <description>CI/CD и инфраструктура</description>
+    </position>
+    <position>
+        <depCode>A005</depCode>
+        <depJob>HR</depJob>
+        <description>Подбор персонала</description>
+    </position>
+    <position>
+        <depCode>A006</depCode>
+        <depJob>Аналитик</depJob>
+        <description>Работа с данными</description>
+    </position>
+    <position>
+        <depCode>A007</depCode>
+        <depJob>Data Scientist</depJob>
+        <description>ML и предсказания</description>
+    </position>
+    <position>
+        <depCode>A008</depCode>
+        <depJob>QA Lead</depJob>
+        <description>Организация тестирования</description>
+    </position>
+    <position>
+        <depCode>A009</depCode>
+        <depJob>Tech Writer</depJob>
+        <description>Документация</description>
+    </position>
+    <position>
+        <depCode>A010</depCode>
+        <depJob>Product Owner</depJob>
+        <description>Планирование продукта</description>
+    </position>
+    <position>
+        <depCode>A011</depCode>
+        <depJob>Designer</depJob>
+        <description>UI/UX дизайн</description>
+    </position>
+    <position>
+        <depCode>A012</depCode>
+        <depJob>Security Engineer</depJob>
+        <description>Защита данных</description>
+    </position>
+    <position>
+        <depCode>A013</depCode>
+        <depJob>Support</depJob>
+        <description>Техподдержка клиентов</description>
+    </position>
+</positions>
